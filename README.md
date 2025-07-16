@@ -56,8 +56,7 @@ AI-powered app with full CI/CD and logic via n8n.
 ---
 
 ## 💡 Fun Facts
-
-- Building a life where my work fuels my dreams — including a future with someone very special 💍  
+  
 - I believe in quiet focus, clear goals, and powerful output.
 
 ---
