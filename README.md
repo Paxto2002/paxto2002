@@ -64,8 +64,9 @@ AI-powered app with full CI/CD and logic via n8n.
 
 ## 📬 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-hafizwaseemahmed2002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaseemahmed2002@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hafizwaseemahmed2002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaseemahmed2002@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347)
+
 
 
 ---
