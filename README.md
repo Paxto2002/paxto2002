@@ -85,12 +85,6 @@ AI-powered app with full CI/CD and logic via n8n.
 
 ---
 
-## 🔝 Top Contributed Repo
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Paxto2002&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
-
 ## 🌐 Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=Paxto2002&icon=0&color=8)](https://visitcount.itsvg.in)
