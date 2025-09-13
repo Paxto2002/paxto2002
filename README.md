@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## Hi 👋, I'm Paxto2002  
+## Hi 👋, I'm Hafiz Waseem Ahmed (Paxto2002)  
 🎓 CS Student | 💻 Full-Stack Developer | 🤖 Aspiring AI/ML Engineer
 
 ---
